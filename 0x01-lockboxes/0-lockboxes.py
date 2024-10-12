@@ -1,3 +1,5 @@
+#!/usr/bin/python3
+
 def canUnlockAll(boxes):
     # Start with the first box unlocked (box 0)
     unlocked_boxes = set([0])
